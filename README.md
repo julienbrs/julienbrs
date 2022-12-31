@@ -19,8 +19,14 @@
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Github" title="Github" src="./assets/github.png"></a>
 </p>
 
-<br/>
+<!-- Blockchain -->
+<div align="center">
+<code><img height="20" alt="ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></code>
+<code><img height="20" alt="bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"></code>
+<code><img height="20" alt="monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"></code>
+</div>
 
+<br />
 <br />
 
 French Computer Science Student at Ensimag, Grenoble 🇫🇷
@@ -36,35 +42,69 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 - 💬 Ask me about anything on [Discord](https://discord.com/users/115877370937868288) or [LinkedIn](https://www.linkedin.com/in/julien-bourseau-ba2239228)
 
 <br />
+
 <div align="center">
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<!-- Coding Languages -->
+
+<code><img height="30" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)"></code>
+<code><img height="30" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
+<code><img height="30" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height="30" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="30" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
+<code><img height="30" alt="mySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<br/>
+
+<!-- Frameworks -->
+
+<code><img height="25" alt="Hardhat" src="./assets/hardhat_badge.png"></code>
+<code><img height="25" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
+<code><img height="25" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img height="25" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
+<code><img height="25" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></code>
+<code><img height="25" alt="TailWindCss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+
+<code><img height="25" alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"></code>
+<code><img height="25" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)"></code>
+<code><img height="25" alt="Latex" src="https://img.shields.io/badge/latex-%22508080.svg?style=for-the-badge&logo=latex&logoColor=white)"></code>
+<code><img height="25" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"></code>
+
 </div>
 
 <br />
+<div style="display: flex; 	justify-content: center;	align-items: center;">
+<div style="width: 50%">
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</div>
 <a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Some of my projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
 
-  <a href="https://github.com/julienbrs/fire-extinguishing-simulation">
-  <img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+  <a href="https://github.com/julienbrs/nft-marketplace">
+  <img width="290"   src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=nft-marketplace" />
+</a>
+  <a href="https://github.com/julienbrs/lottery-smart-contract">
+  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=lottery-smart-contract" />
 </a>
   <a href="https://github.com/julienbrs/fire-extinguishing-simulation">
-  <img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
 </a>
-<a href="https://github.com/julienbrs/fire-extinguishing-simulation">
-<img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+<a href="https://github.com/julienbrs/Mail-invaders">
+<img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=Mail-invaders" />
 </a>
-  <a href="https://github.com/julienbrs/fire-extinguishing-simulation">
-  <img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+  <a href="https://github.com/julienbrs/C-virtual-memory-allocator">
+  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=C-virtual-memory-allocator" />
+</a>
+  <a href="https://github.com/julienbrs/Find-closest-pair-of-points">
+  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=Find-closest-pair-of-points" />
 </a>
 
   </p>
@@ -74,10 +114,11 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 </details>
 
 <br />
-
+<!-- 
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+ -->
