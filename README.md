@@ -83,8 +83,10 @@ Other                        ███░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-</div style="width: 40%">
+</div >
+<div style="width: 55%">
 <a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 </div>
 
 <details open> 
