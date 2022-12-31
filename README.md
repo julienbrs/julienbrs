@@ -76,6 +76,12 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 <div style="width: 50%">
 <!--START_SECTION:waka-->
 
+```text
+JavaScript                   █████████░░░░░░░░░░░░░░░░   36.65 %
+CSS                          ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Other                        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 <a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
