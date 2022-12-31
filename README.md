@@ -72,8 +72,8 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 </div>
 
 <br />
-<div style="display: flex; 	justify-content: center;	align-items: center;">
-<div style="width: 50%">
+<div style="display: flex; 	justify-content: space-between;	align-items: center;">
+<div style="width: 40%">
 <!--START_SECTION:waka-->
 
 ```text
@@ -83,7 +83,7 @@ Other                        ███░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-</div>
+</div style="width: 40%">
 <a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
