@@ -87,6 +87,7 @@ Other                        █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+https://wakatime.com/@47c0ba3b-9961-469f-8938-e2382f0646f1
 </div >
 <div style="width: 55%">
 <a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
