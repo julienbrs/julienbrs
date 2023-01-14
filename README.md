@@ -89,7 +89,7 @@ Other                        █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div >
 <div style="width: 55%">
-<a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 </div>
 
@@ -101,22 +101,22 @@ Other                        █▓░░░░░░░░░░░░░░░
   <p align="left">
 
   <a href="https://github.com/julienbrs/nft-marketplace">
-  <img width="290"   src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=nft-marketplace" />
+  <img width="290"   src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=nft-marketplace" />
 </a>
   <a href="https://github.com/julienbrs/lottery-smart-contract">
-  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=lottery-smart-contract" />
+  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=lottery-smart-contract" />
 </a>
   <a href="https://github.com/julienbrs/fire-extinguishing-simulation">
-  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
 </a>
 <a href="https://github.com/julienbrs/Mail-invaders">
-<img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=Mail-invaders" />
+<img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Mail-invaders" />
 </a>
   <a href="https://github.com/julienbrs/C-virtual-memory-allocator">
-  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=C-virtual-memory-allocator" />
+  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=C-virtual-memory-allocator" />
 </a>
   <a href="https://github.com/julienbrs/Find-closest-pair-of-points">
-  <img width="290"  src="https://github-readme-stats.vercel.app/api/pin/?username=julienbrs&repo=Find-closest-pair-of-points" />
+  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Find-closest-pair-of-points" />
 </a>
 
   </p>
