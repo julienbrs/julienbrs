@@ -29,15 +29,16 @@
 <br />
 <br />
 
-French Computer Science Student at Ensimag, Grenoble 🇫🇷 Looking for a 3 month blockchain internship 🌱
+French Computer Science Student at Ensimag, Grenoble 🇫🇷
+Looking for a 3 month blockchain internship 🌱
 
 **About me**
 
-- 💼 Aiming to be a lead Developer in Web3 ecosystem
+- 💼 Passionate about becoming a leading figure in the Web3 ecosystem
 
-- 📈 Blockchain Enthusiast since 2017
+- ✨ Passionate about blockchain since 2017 and actively following the industry.
 
-- ❤️ Soon Solidity auditor
+- 🚀 Aspiring to become a top-tier Solidity security auditor or Rust core developer
 
 - 💬 Ask me about anything on [Discord](https://discord.com/users/115877370937868288) or [LinkedIn](https://www.linkedin.com/in/julien-bourseau-ba2239228)
 
