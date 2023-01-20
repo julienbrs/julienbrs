@@ -29,7 +29,7 @@
 <br />
 <br />
 
-French Computer Science Student at Ensimag, Grenoble 🇫🇷
+French Computer Science Student at Ensimag, Grenoble 🇫🇷 Looking for a 3 month blockchain internship 🌱
 
 **About me**
 
