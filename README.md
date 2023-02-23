@@ -83,7 +83,7 @@ Looking for a 3 month blockchain internship 🌱
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February 2023 - To: 20 February 2023
+From: 14 February 2023 - To: 21 February 2023
 
 JavaScript                   ███████████████▒░░░░░░░░░   61.52 %
 JSON                         ███████░░░░░░░░░░░░░░░░░░   28.13 %
