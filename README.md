@@ -83,7 +83,7 @@ Looking for a 3 month blockchain internship 🌱
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2023 - To: 04 March 2023
+From: 26 February 2023 - To: 05 March 2023
 
 Rust                    █████████████████████▓░░░   86.01 %
 C                       ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
