@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/julienbrs">
-    <img width="50%" alt="Hello, I'm Julien, computer science student!" src="./assets/julienbourseau.png" alt="Jonah Lawrence" /></a>
+    <img width="50%" alt="Hello, I'm Julien, computer science student!" src="./assets/julienbourseau.png" /></a>
 </p>
 
 <p align="center">
@@ -34,15 +34,14 @@
 
 French Computer Science Student at Ensimag, Grenoble 🇫🇷 
 
-Looking for a 3 month blockchain internship 🌱
 
 **About me**
 
-- 💼 Passionate about becoming a leading figure in the Web3 ecosystem
+- 💼 Aiming to become a leading figure in the Web3 ecosystem
 
 - ✨ Passionate about blockchain since 2017 and actively following the industry.
 
-- 🚀 Aspiring to become a top-tier Solidity security auditor or Rust core developer
+- 🐺 Starkpilled, Ethereum optimistic
 
 - 💬 Ask me about anything on **[Discord](https://discord.com/users/115877370937868288)** or **[LinkedIn](https://www.linkedin.com/in/julien-bourseau-ba2239228)**
 
