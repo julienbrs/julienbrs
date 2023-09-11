@@ -82,7 +82,7 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 No activity tracked
 ```
