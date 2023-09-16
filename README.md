@@ -82,9 +82,11 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-No activity tracked
+Python                   █████████████████████░░░░   84.46 %
+Text                     ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+Other                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
