@@ -82,7 +82,7 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
 TSQL                           ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
 MySQL                          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
