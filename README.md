@@ -82,7 +82,7 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
 JavaScript                   ███████████▓░░░░░░░░░░░░░   46.76 %
 JSON                         ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
