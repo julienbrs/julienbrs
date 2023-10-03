@@ -9,20 +9,20 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
+<!-- <p align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Github" title="Github" src="./assets/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/julien-bourseau-ba2239228" alt="Linkedin" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discord.com/users/115877370937868288"><img width="32px" alt="Discord logo" title="Discord" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png"/></a>
-</p>
+</p> -->
 
 <!-- Blockchain -->
 <div align="center">
 <img height="20" alt="ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 <img height="20" alt="bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img height="20" alt="monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white">
-<p><a href="https://julienbrs.github.io/">My Portfolio Here</a> </p>
+<h3><a href="https://julienbrs.github.io/" style="text-decoration: none" >julienbrs.github.io</a> </h3>
 </div>
 
 
@@ -90,7 +90,7 @@ MySQL                        █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<a href="https://wakatime.com/@47c0ba3b-9961-469f-8938-e2382f0646f1"><img src="https://wakatime.com/badge/user/47c0ba3b-9961-469f-8938-e2382f0646f1.svg" alt="Total time coded since Nov 12 2022" /></a>
+<!-- <a href="https://wakatime.com/@47c0ba3b-9961-469f-8938-e2382f0646f1"><img src="https://wakatime.com/badge/user/47c0ba3b-9961-469f-8938-e2382f0646f1.svg" alt="Total time coded since Nov 12 2022" /></a> -->
 </div >
 <div style="width: 55%">
 <a href="https://github.com/julienbrs/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julienbrs&layout=compact&theme=buefy&hide_border=true" /></a>
@@ -104,26 +104,26 @@ MySQL                        █░░░░░░░░░░░░░░░░
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
 
-  <a href="https://github.com/julienbrs/nft-marketplace">
-  <img width="290"   src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=nft-marketplace" />
+  <a href="https://github.com/julienbrs/Zk-ProofsMixer">
+  <img align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Zk-ProofsMixer" />
 </a>
 </a>
   <a href="https://github.com/julio4/sapo-fevm">
-  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Sapo-FEVM" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Sapo-FEVM" />
 </a>
-  <a href="https://github.com/julienbrs/lottery-smart-contract">
-  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=lottery-smart-contract" />
+  <a href="https://github.com/julio4/zap">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julio4&repo=zap" />
+</a>
+  <a href="https://github.com/julio4/eth-soul">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julio4&repo=eth-soul" />
+</a>
+<a href="https://github.com/julienbrs/Werewolves-Game-App">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Werewolves-Game-App" />
 </a>
   <a href="https://github.com/julienbrs/fire-extinguishing-simulation">
-  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
-</a>
-<a href="https://github.com/julienbrs/Mail-invaders">
-<img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Mail-invaders" />
-</a>
-  <a href="https://github.com/julienbrs/C-virtual-memory-allocator">
-  <img width="290"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=C-virtual-memory-allocator" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+</p>
 
-  </p>
 
 <a href="https://github.com/julienbrs?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
