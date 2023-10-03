@@ -5,18 +5,16 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=4000&pause=500&center=true&vCenter=true&width=440&height=45&lines=Web3+Developer;Blockchain+Enthusiast+%26+deFi+Optimistic;Computer+Science+Student" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4000&pause=1000&color=B62E32&width=435&lines=Starkpilled+Web3+Developer;DAO+%26+deFi+Optimistic;Computer+Science++Student" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://discord.com/users/115877370937868288"><img width="32px" alt="Discord logo" title="Discord" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png"/></a>
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Github" title="Github" src="./assets/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href=""><img width="32px" alt="Twitter" title="Twitter" src=""/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://www.linkedin.com/in/julien-bourseau-ba2239228" alt="Linkedin" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Github" title="Github" src="./assets/github.png"></a>
+    <a href="https://discord.com/users/115877370937868288"><img width="32px" alt="Discord logo" title="Discord" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png"/></a>
 </p>
 
 <!-- Blockchain -->
