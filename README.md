@@ -35,11 +35,11 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 
 **About me**
 
-- 💼 Aiming to become a leading figure in the Web3 ecosystem
-
 - ✨ Passionate about blockchain since 2017 and actively following the industry.
 
-- 🐺 Starkpilled, Ethereum optimistic
+- 💊 deFi lover & Blockchains for public goods.
+
+- 🐺 Starkpilled, Ethereum optimistic.
 
 - 💬 Ask me about anything on **[Discord](https://discord.com/users/115877370937868288)** or **[LinkedIn](https://www.linkedin.com/in/julien-bourseau-ba2239228)**
 
