@@ -105,24 +105,24 @@ Python                       ▓░░░░░░░░░░░░░░░░
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
 
+  <a href="https://github.com/julio4/zap">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julio4&repo=zap" />
+</a>
   <a href="https://github.com/julienbrs/Zk-ProofsMixer">
   <img align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Zk-ProofsMixer" />
 </a>
+<a href="https://github.com/julienbrs/kryptosphere-ensimag/">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=kryptosphere-ensimag" />
 </a>
   <a href="https://github.com/julio4/sapo-fevm">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Sapo-FEVM" />
 </a>
-  <a href="https://github.com/julio4/zap">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julio4&repo=zap" />
-</a>
   <a href="https://github.com/julio4/eth-soul">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julio4&repo=eth-soul" />
 </a>
-<a href="https://github.com/julienbrs/Werewolves-Game-App">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=Werewolves-Game-App" />
-</a>
   <a href="https://github.com/julienbrs/fire-extinguishing-simulation">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julienbrs&repo=fire-extinguishing-simulation" />
+</a>
 </p>
 
 
