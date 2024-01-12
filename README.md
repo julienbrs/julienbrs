@@ -35,6 +35,8 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 
 **About me**
 
+- https://twitter.com/Ainullindale
+
 - ✨ Passionate about blockchain since 2017 and actively following the industry.
 
 - 💊 deFi lover & Blockchains for public goods.
