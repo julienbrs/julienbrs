@@ -83,7 +83,7 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
 TypeScript                   ███████░░░░░░░░░░░░░░░░░░   27.71 %
 JavaScript                   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
