@@ -35,7 +35,7 @@ French Computer Science Student at Ensimag, Grenoble 🇫🇷
 
 **About me**
 
-- https://twitter.com/Ainullindale
+- https://x.com/Ainur_stark
 
 - ✨ Passionate about blockchain since 2017 and actively following the industry.
 
