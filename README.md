@@ -29,7 +29,7 @@
 - **Ex-Blockchain Researcher @ [Carbonable](https://www.carbonable.io/)** (Starknet carbon-credit protocol).  
 - Core interests: **privacy-preserving attestations, tokenised real-world assets, account abstraction**.  
 - Active open-source contributor & frequent hackathon winner (ETHGlobal, Protocol Labs, Mina, Starknet).  
-- 📍 Based in France · 🌍 Remote-friendly · 🟢 **Open for Rust / zk roles**
+- 📍 Based in France · 🌍 Remote-friendly 
 
 ## 🛠️ Expertise
 - **Languages :** Rust · Cairo · Solidity · TypeScript · Python  
